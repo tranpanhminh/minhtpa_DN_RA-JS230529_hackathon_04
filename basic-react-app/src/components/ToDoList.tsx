@@ -184,7 +184,7 @@ function ToDoList() {
           </div>
 
           <span className="delete-all-tasks" onClick={handleDeleteAll}>
-            Delete comp tasks
+            Delete all complete tasks
           </span>
         </div>
 
